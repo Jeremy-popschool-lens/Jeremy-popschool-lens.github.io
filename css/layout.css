@@ -8,10 +8,10 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
-   min-height: 500px;
+   height: 100px;
+   min-height: 100px;
    width: 100%;
-   background: #5da4d9 no-repeat top center;
+   background: #33ff99 no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -30,7 +30,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 10px;s
    text-align: center;
 }
 
@@ -229,7 +229,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #33ff99;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -296,7 +296,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #5da4d9;
+  	background: #33ff99;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
